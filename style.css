@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{			
+    font-family: sans-serif;
+    background-color: #E6E6FA;
+}
+.Header
+{
+    width: 100%;
+    height: 100px;
+}
+.Header
+{
+background-color: #FFF8DC;
+
+}
+
+.Content
+{
+    width: 75%;
+    height: 650px;
+    /*border: 2px dotted pink;*/
+    text-align: cent    er;
+    float: right;
+}
+.Slide-bar
+{
+width: 24%;
+height: 650px;
+font-size: larger;
+/* background-image: linear-gradient(rgba(11, 217, 42, 0.936),rgba(36, 240, 17, 0.6)),url(picture/6.jpg); */
+text-align: center;
+float: left;
+}
+
+
+

@@ -1,0 +1,25 @@
+Mam/Sir:-
+Its Humble request.
+
+:- kindly do not change the email id of admin and advisor.
+:- Some elements were missing in momups such as ( advisor-page,user-loan page,user-main page and etc.)
+:- Kindly refer to updated  database (because this time changes were made in data-base)
+:- Last time when you were testing the project sets that time datbase were not uploaded in proper manner.
+:- The changes were made on demand Such as 
+                Resolved-                       -Here, in view/edit profile when ee click edit profile it is going back to thr previous page 
+                                                And entire page is vanished off This shouldnt happrn
+                Resolved                        -Password should not be displayed ,U should keep save button over here
+                Resolved-                       -In transactions security ans can be alphabets or number, here it is asking only numbers
+                Resolved-                       -Send or transfer is not working
+                Resolved-                       And also sin number is not asked
+                Resolved-                       when we click mail address then it is logging out
+                Resolved-                       In advisor same as admin but will not have options to block or unblock or change .
+                                                 Its just approves or disapproves loan
+                                                And also view the user accounts dats it
+                Resolved-                       When we click lock it is showing like this
+                Resolved-                       Menu should be one very page
+                Resolved-                       Here logout button shiuld br displayed.
+
+
+Profile picture and card picture is not done .
+
